@@ -13,8 +13,8 @@ Taskly is a simple yet effective to-do application developed as part of my journ
 
 ### SignIn & SignUp
 <img src="https://github.com/user-attachments/assets/10f47999-02e4-4213-aabf-7c832b933564" width="250" />
-<img src="https://github.com/user-attachments/assets/fcbf654a-bed6-481a-a266-185a00611830" width="250" />
-<img src="https://github.com/user-attachments/assets/c1294e27-02d3-4329-bfc5-c72d5fc05c38" width="250" />
+<img src="https://github.com/user-attachments/assets/fcbf654a-bed6-481a-a266-185a00611830" width="260" />
+<img src="https://github.com/user-attachments/assets/c1294e27-02d3-4329-bfc5-c72d5fc05c38" width="255" />
 <img src="https://github.com/user-attachments/assets/5c5835e5-13b4-42f8-96d4-46eef3e038bb" width="250" />
 
 ### Home Page & Add Task
