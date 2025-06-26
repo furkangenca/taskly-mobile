@@ -48,10 +48,4 @@ Designed during an internship project, it combines clean UI design with full CRU
 <img src="https://github.com/user-attachments/assets/f4725b60-6b11-40dc-9c4d-695609facf34" width="250" />
 <img src="https://github.com/user-attachments/assets/0ffe7aa5-f85d-4bae-93bf-b2fbbccb10a6" width="250" />
 
----
-
-## ⚠️ License
-
-This project is licensed under the [MIT License](LICENSE).  
-Use is permitted under the conditions of the license.
 
