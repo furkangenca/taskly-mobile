@@ -1,33 +1,21 @@
-# ✅ Taskly – Mobile To-Do App (Flutter)
+# ✅ Taskly — Flutter To-Do App with Firebase
 
-**Taskly** is a robust, mobile-friendly to-do list application built with **Flutter** and **Firebase**.  
-Designed during an internship project, it combines clean UI design with full CRUD functionality, allowing users to manage tasks with deadlines, priorities, and cloud-based sync.
-
----
-
-## ✨ Key Features
-
-- 📝 **Add Tasks** — Includes description, due date, and priority level  
-- ✅ **Complete Tasks** — Mark tasks as completed and view them separately  
-- ♻️ **Delete / Restore** — Undo deletions when needed  
-- 🔐 **User Authentication** — Login via email or phone using Firebase Auth  
-- 🎛️ **Settings & Profile** — Edit user info and app preferences
+**Taskly** is a cross-platform mobile to-do app built with **Flutter** and **Firebase**.  
+It enables users to create, update, complete, and delete tasks with cloud sync and authentication support.
 
 ---
 
-## 🔧 Tech Stack
+## ✨ Features
 
-| Technology      | Purpose                    |
-|-----------------|----------------------------|
-| **Flutter**     | Cross-platform UI framework |
-| **Firebase Auth** | Secure user authentication  |
-| **Firebase Firestore** | Cloud database for tasks |
-| **Dart**        | Programming language        |
-| **Android Studio**     | Development environment     |
+- 📝 Create tasks with description, due date, and priority  
+- ✅ Mark tasks as completed  
+- 🗑️ Delete and restore tasks  
+- 🔐 Secure login with email or phone (Firebase Auth)  
+- ⚙️ Edit profile and app preferences  
 
 ---
 
-## 📱 UI Screenshots
+## 📱 UI Previews
 
 ### 🔐 Sign In / Sign Up
 
@@ -36,7 +24,7 @@ Designed during an internship project, it combines clean UI design with full CRU
 <img src="https://github.com/user-attachments/assets/c1294e27-02d3-4329-bfc5-c72d5fc05c38" width="250" />
 <img src="https://github.com/user-attachments/assets/5c5835e5-13b4-42f8-96d4-46eef3e038bb" width="250" />
 
-### 🏠 Home & Add Task
+### 🏠 Home & Task Management
 
 <img src="https://github.com/user-attachments/assets/d356e116-052d-4ca6-9a4d-3f16e7020921" width="250" />
 <img src="https://github.com/user-attachments/assets/e0ca6838-1ce7-47ac-a403-6f529091c0d6" width="250" />
@@ -48,4 +36,49 @@ Designed during an internship project, it combines clean UI design with full CRU
 <img src="https://github.com/user-attachments/assets/f4725b60-6b11-40dc-9c4d-695609facf34" width="250" />
 <img src="https://github.com/user-attachments/assets/0ffe7aa5-f85d-4bae-93bf-b2fbbccb10a6" width="250" />
 
+---
 
+## 🛠️ Tech Stack
+
+| Tool / Framework        | Purpose                        |
+|--------------------------|--------------------------------|
+| **Flutter**              | Cross-platform UI framework    |
+| **Firebase Auth**        | User authentication            |
+| **Firebase Firestore**   | Realtime cloud database        |
+| **Dart**                 | Application logic              |
+| **Android Studio / VS Code** | Development environment     |
+
+---
+
+## ⚙️ Setup & Run
+
+### Requirements
+
+- Flutter SDK 3.22+  
+- Firebase account and project  
+- Android/iOS emulator or physical device
+
+### Run the App
+
+```bash
+git clone https://github.com/furkangenca/taskly-mobile.git
+cd taskly-mobile
+flutter pub get
+flutter run
+```
+
+> 📦 Ensure your Firebase project is configured and the `google-services.json` / `GoogleService-Info.plist` files are added.
+
+---
+
+## 📬 Contact
+
+**Furkan Gença**  
+[@furkangenca](https://github.com/furkangenca)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).  
+You are free to use, modify, and distribute it under the terms of this license.
